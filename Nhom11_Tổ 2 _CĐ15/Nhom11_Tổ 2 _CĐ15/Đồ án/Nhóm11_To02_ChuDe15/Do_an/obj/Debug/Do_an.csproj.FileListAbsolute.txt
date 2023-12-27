@@ -1,0 +1,42 @@
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\bin\Debug\Do_an.exe.config
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\bin\Debug\Do_an.exe
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\bin\Debug\Do_an.pdb
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.csproj.AssemblyReference.cache
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.csproj.SuggestedBindingRedirects.cache
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmĐăng_Nhập.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.Properties.Resources.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.csproj.GenerateResource.cache
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.csproj.CoreCompileInputs.cache
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.exe
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.pdb
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmHoáĐơn.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmTrangChu.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmSinhVien.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmNhanVien.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmHopDong.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmNguoiThan.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmPhongcs.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.FrmDienNuoc.resources
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\bin\Debug\Guna.UI2.dll
+D:\Năm 3\HK1\C#\Đồ án\Do_an\Do_an\obj\Debug\Do_an.csproj.CopyComplete
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\bin\Debug\Do_an.exe.config
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\bin\Debug\Do_an.exe
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\bin\Debug\Do_an.pdb
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\bin\Debug\Guna.UI2.dll
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.csproj.AssemblyReference.cache
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.csproj.SuggestedBindingRedirects.cache
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmDienNuoc.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmHopDong.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmHoáĐơn.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmNguoiThan.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmNhanVien.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmPhongcs.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmSinhVien.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmTrangChu.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.FrmĐăng_Nhập.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.Properties.Resources.resources
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.csproj.GenerateResource.cache
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.csproj.CoreCompileInputs.cache
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.csproj.CopyComplete
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.exe
+D:\Năm 3\HK1\C#\Nhom11_Tổ 2 _CĐ15\Đồ án\Nhóm11_To02_ChuDe15\Do_an\obj\Debug\Do_an.pdb
